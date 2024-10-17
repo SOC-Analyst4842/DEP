@@ -1,7 +1,3 @@
-**task1.rar:**
-* This RAR file contains all the data and reports related to Task 1. Please extract the file to view the contents.
-<br>
-<br>
 **Task 1**
 <br>
 **Conducting Security Audits**
@@ -19,3 +15,6 @@ Evaluate the security posture of a network by identifying vulnerabilities and we
 * Reviewing security policies and procedures.
 * Compiling a report with findings and recommendations.
 * Presenting the audit results to stakeholders.
+<br>
+<br>
+**Note:** This RAR file contains all the data and reports related to Task 1. Please extract the file to view the contents.
