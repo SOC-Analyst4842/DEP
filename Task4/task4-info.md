@@ -14,4 +14,7 @@ Implement firewalls and intrusion detection systems to monitor and control incom
 * Configuring firewall rules and policies.
 * Setting up IDS to monitor network traffic.
 * Analyzing IDS alerts and responding to threats.
-* Regularly updating and maintaining the configurations
+* Regularly updating and maintaining the configurations.
+
+
+**Note:** This RAR file contains all the data and reports related to Task 4. Please extract the file to view the contents.
