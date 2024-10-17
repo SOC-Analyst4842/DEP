@@ -15,3 +15,5 @@ Set up multi-factor authentication (MFA) to add an extra layer of security to us
 * Educating users on how to set up and use MFA.
 * Monitoring MFA adoption and addressing any issues.
 * Regularly updating and maintaining MFA configurations.
+
+**Note:** This RAR file contains all the data and reports related to Task 1. Please extract the file to view the contents.
