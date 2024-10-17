@@ -1,4 +1,4 @@
-**task1.rar**:
+**task1.rar:**
 * This RAR file contains all the data and reports related to Task 1. Please extract the file to view the contents.
 <br>
 <br>
